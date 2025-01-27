@@ -1,4 +1,4 @@
-package Java;
+package Java.Polymorphism;
 class Shape {
     public void draw() {
         System.out.println("Drawing a shape");
